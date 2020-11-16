@@ -116,6 +116,7 @@
     <Compile Include="MySqlHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestClass1.cs" />
     <Compile Include="User.cs" />
     <Compile Include="ViewForSql.cs">
       <SubType>Form</SubType>
